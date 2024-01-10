@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lylll9436
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in machine learning and I'm a architect student
+- 🌱 I’m currently learning coding and I'm totally a fresh hand
+- 💞️ I’m looking to collaborate on urban design
 - 📫 How to reach me WeChat: Lylll9436 or email: 220230195@seu.edu.cn
 
 <!---
