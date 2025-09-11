@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Lylll9436
-- 👀 I’m interested in machine learning and I'm a architect student
-- 🌱 I’m currently learning coding and I'm totally a FRESH HAND
-- 💞️ I’m looking to collaborate on urban design, urban computing, and urban perception!
-- 📫 How to reach me WeChat: Lylll9436 or email: lyl_arch@seu.edu.cn
+---
+  Hi there! 👋 I'm Yunlong Liu
 
-<!---
-Lylll9436/Lylll9436 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  🎓 M.Arch Graduate Student at Southeast University, specializing in Urban Design with a focus on Urban Data Science and Graph Neural Networks
+
+  🔬 Research Interests: Urban Computing • Multimodal Data Fusion • Graph Neural Networks • Urban Perception Analysis
+
+  🌟 Currently Working On:
+  - National Key R&D Program of China: Developing multimodal data fusion pipeline for automatic city-scale green performance model generation
+  - Master's Thesis: Urban carbon emission simulation using multimodal data fusion (Nanjing case study)
+
+  📝 Recent Publications:
+  - "Decoding the 24-hour city" - ISOCARP2025 Congress (almost accept)(1st author)
+  - "From pixels to predicates" - CAADRIA2026 Conference (almost accept)(1st author)
+  - "Chinese Superblocks Regeneration" - CAADRIA2026 Conference (accepted)(2nd author)
+
+  🛠️ Tech Stack:
+  - Languages: Python
+  - AI/ML: PyTorch, Deep Learning, Graph Neural Networks
+  - Urban Analysis: QGIS, ArcGIS Pro, Remote Sensing
+  - Tools: Git, ChatGPT, Claude Code, Cursor
+
+  🏙️ Passionate about bridging the gap between urban planning and artificial intelligence to create smarter, more sustainable cities.
+
+  📫 Reach me: lyl_arch@seu.edu.cn
+
+  ---
