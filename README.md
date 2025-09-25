@@ -11,7 +11,7 @@
 
   📝 Recent Publications:
   - "Decoding the 24-hour city" - ISOCARP2025 Congress (accepted)(1st author)
-  - "From pixels to predicates" - CAADRIA2026 Conference (abstract accept)(1st author)
+  - "From pixels to predicates" - CAADRIA2026 Conference (abstract accepted)(1st author)
   - "Chinese Superblocks Regeneration" - CAADRIA2026 Conference (accepted)(2nd author)
 
   🛠️ Tech Stack:
