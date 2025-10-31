@@ -12,7 +12,7 @@
   📝 Recent Publications:
   - "Decoding the 24-hour city" - ISOCARP2025 Congress (accepted)(1st author)
   - ["From pixels to predicates"](https://github.com/Lylll9436/pixels-to-predicates) - CAADRIA2026 Conference (abstract accepted; full paper submitted)(1st author)
-  - ["Chinese Superblocks Regeneration"](https://your-isocarp-url-here](https://github.com/inTANGibles/UrbanStreetGNN) - CAADRIA2026 Conference (abstract accepted; full paper submitted)(2nd author)
+  - ["Chinese Superblocks Regeneration"](https://github.com/inTANGibles/UrbanStreetGNN) - CAADRIA2026 Conference (abstract accepted; full paper submitted)(2nd author)
 
   🛠️ Tech Stack:
   - Languages: Python
