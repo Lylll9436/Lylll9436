@@ -3,7 +3,7 @@
 
   🎓 M.Arch Graduate Student at Southeast University, specializing in Urban Design with a focus on Urban Data Science and Graph Neural Networks
 
-  🔬 Research Interests: Urban Computing • Multimodal Data Fusion • Graph Neural Networks
+  🔬 Research Interests: Urban Computing • Human Mobility • Graph Neural Networks
 
   🌟 Currently Working On:
   - National Key R&D Program of China: Developing multimodal data fusion pipeline for automatic city-scale green performance model generation
