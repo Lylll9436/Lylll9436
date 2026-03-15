@@ -26,3 +26,5 @@
   📫 Reach me: lyl_arch@seu.edu.cn
 
   ---
+
+![Lylll9436 github stats](https://github-readme-stats.vercel.app/api?username=Lylll9436&show_icons=true&theme=radical)
