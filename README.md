@@ -10,9 +10,9 @@
   - Master's Thesis: Urban carbon emission simulation using multimodal data fusion (Nanjing case study)
 
   📝 Recent Publications:
-  - "Decoding the 24-hour city" - ISOCARP2025 Congress (accepted)(1st author)
-  - ["From pixels to predicates"](https://github.com/Lylll9436/pixels-to-predicates) - CAADRIA2026 Conference (full paper accepted)(1st author)
-  - ["Chinese Superblocks Regeneration"](https://github.com/inTANGibles/UrbanStreetGNN) - CAADRIA2026 Conference (abstract accepted; full paper submitted)(2nd author)
+  - "Decoding the 24-hour city" - ISOCARP2025 Congress (1st author)
+  - ["From pixels to predicates"](https://github.com/Lylll9436/pixels-to-predicates) - CAADRIA2026 Conference (1st author)
+  - ["Chinese Superblocks Regeneration"](https://github.com/inTANGibles/UrbanStreetGNN) - CDRF Conference (abstract accepted; full paper submitted)(2nd author)
   - "Research on regional urban development level based on club convergence phenomenon" - in Proceedings of the China Urban Planning Annual Conference 2024 (Pulished)(1st author)
 
   🛠️ Tech Stack:
